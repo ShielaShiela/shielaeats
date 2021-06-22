@@ -36,6 +36,6 @@ h.	View Delivery Status
 
 Others: Admin (On Users)
 
-Database Design
+Database Design Project
  
 
