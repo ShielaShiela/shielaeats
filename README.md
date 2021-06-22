@@ -23,7 +23,7 @@ b.	Select Orders to Pick-up
 c.	Update Delivery Status->On the way, Delivered
 
 
-MOBILE APPLICATION
+MOBILE APPLICATION on another repository ShielaEats-Mobile
 Type of User: Customer
 a.	Login/SignUp
 b.	View All Restaurants
